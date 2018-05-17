@@ -11,4 +11,4 @@ To deploy this react app to your github using gh-pages
 
 thanks to: https://github.com/gitname/react-gh-pages
 
-You can then view your app at: http://deanrather.github.io/WeatherApp
+You can then view your app at: http://Leahcerinich.github.io/WeatherApp
