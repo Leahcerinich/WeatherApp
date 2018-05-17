@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://deanrather.github.io/WeatherApp",
+  "homepage": "http://Leahcerinich.github.io/WeatherApp",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
