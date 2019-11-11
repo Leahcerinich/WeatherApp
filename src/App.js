@@ -24,7 +24,7 @@ class App extends React.Component {
   }
 
   getWeather = (location) =>{
-    const apiKey = 'b090866d5a537a6980369da6cb8213d4'
+    const apiKey = ''
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}`;
 return fetch(url)
 .then(res => res.json())
